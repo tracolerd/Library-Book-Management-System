@@ -1,0 +1,23 @@
+# Java class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE specific files
+.idea/
+.settings/
+.classpath
+.project
+*.iml
+
+# Build directories
+bin/
+build/
+out/
+
+# Other temporary files
+*.log
+.DS_Store
