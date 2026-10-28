@@ -318,3 +318,7 @@ This project is licensed under the **MIT License**. See the [`LICENSE`](LICENSE)
 
 
 ---
+
+---
+
+<p align="center"><sub>Portfolio catalog · Project 14 of 22 · <a href="https://github.com/tracolerd">Nurul Faiyaz</a></sub></p>
